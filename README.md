@@ -2,6 +2,7 @@
 
 This is the base source code that provide the basic structure of a Golang Project. Developer can rely on this to build a simple API application.
 
+```
 /api: contains backend code
 	/cmd
 		/<app_name>
@@ -25,6 +26,7 @@ This is the base source code that provide the basic structure of a Golang Projec
 /go.mod
 /go.sum
 /dockerfile
+```
 
 ## 1. Summary
 
